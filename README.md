@@ -23,7 +23,7 @@ print(l)
 ```
 
 ## Output:
-![ex1](Ex1.png)
+![ex1](ex1.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
